@@ -53,4 +53,4 @@ the dominant role of the thermocline
 Python · pandas · numpy · scikit-learn · matplotlib · seaborn · argopy
 
 ## Author
-Berenger de Clers — 2nd year student, École des Mines de Paris
+Berenger des Clers — 2nd year student, École des Mines de Paris
