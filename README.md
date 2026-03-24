@@ -1,4 +1,4 @@
-# AI-Based Ocean Temperature Prediction
+# AI-Based Ocean Temperature Control
 
 ## Overview
 End-to-end machine learning pipeline predicting ocean temperature from 
